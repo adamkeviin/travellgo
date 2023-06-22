@@ -4,16 +4,14 @@
 TRAVELGO adalah website penyedia jasa travel trip yang disediakan oleh travel agent.
 
 ## Preview
-- ** Login Page**
-    <img width="959" alt="" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20134948.png">
+- **Login Page**
+    <img width="959" alt="Screenshot 2023-06-22 134948.png" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20134948.png">
 - **Main Website**
-  <img width="959" alt="" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20134948.png">
   <img width="960" alt="Screenshot 2023-06-22 135351.png" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20135351.png">
-  <img width="960" alt="Screenshot 2023-06-22 105052" src="">
-  <img width="960" alt="Screenshot 2023-06-22 105108" src="">
-  <img width="960" alt="Screenshot 2023-06-22 105117" src="">
-  <img width="960" alt="Screenshot 2023-06-22 105141" src="">
-  <img width="960" alt="Screenshot 2023-06-22 105236" src="">
+  <img width="960" alt="Screenshot 2023-06-22 135416.png" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20135416.png">
+  <img width="960" alt="Screenshot 2023-06-22 135429.png" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20135429.png">
+  <img width="960" alt="Screenshot 2023-06-22 135437.png" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20135437.png">
+  <img width="960" alt="Screenshot 2023-06-22 135519.png" src="https://github.com/adamkeviin/gambar/blob/main/Screenshot%202023-06-22%20135519.png">
 - **Admin**
   <img width="960" alt="Screenshot 2023-06-22 105751" src="https://github.com/dinaanm/travel-go/assets/90541375/a34b9da1-9146-4b10-87b7-ec20b746e495">
   <img width="960" alt="Screenshot 2023-06-22 105759" src="https://github.com/dinaanm/travel-go/assets/90541375/a15d4c13-1a2e-47bc-88f6-579d20079c71">
